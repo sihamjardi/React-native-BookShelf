@@ -45,5 +45,5 @@ d’extraire tous les styles vers StyleSheet pour rendre le code plus lisible.
 
 **Date :** Janvier 2026
 
-**Encadré par :** Pr.Mohamed LACHGHAR
+**Encadré par :** Pr.Mohamed LACHGAR
 
